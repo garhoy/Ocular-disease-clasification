@@ -24,4 +24,4 @@ Características Clave:
 - Preprocesamiento y aumento comprensivo de conjuntos de datos.
 - Análisis y evaluación detallada del rendimiento del modelo.
 
-[Click here](https://www.youtube.com/@rovitroboticstridimensiona3792/videos)
+[Click here](https://www.youtube.com/watch?v=Y-xT5xKr-RU&t=3s)
